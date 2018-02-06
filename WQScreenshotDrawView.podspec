@@ -9,6 +9,7 @@ s.description  = <<-DESC
 自己总结的弹幕小插件，欢迎使用。
 DESC
 
+
 s.homepage     = "https://github.com/WQiOS/WQScreenshotDrawView"
 s.license      = "MIT"
 s.author       = { "王强" => "1570375769@qq.com" }

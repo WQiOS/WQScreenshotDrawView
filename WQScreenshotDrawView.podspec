@@ -16,7 +16,7 @@ s.author       = { "王强" => "1570375769@qq.com" }
 s.platform     = :ios, "8.0" #平台及支持的最低版本
 s.requires_arc = true # 是否启用ARC
 s.source       = { :git => "https://github.com/WQiOS/WQScreenshotDrawView.git", :tag => "#{s.version}" }
-s.source_files = "WQScreenshotDrawView/WQScreenshotDrawView/*.{h,m}"
+s.source_files = "WQScreenshotDrawView/*.{h,m}"
 s.ios.framework  = 'UIKit'
 
 end

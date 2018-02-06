@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "WQScreenshotDrawView"
-s.version      = "0.0.3"
+s.version      = "0.0.4"
 s.summary      = "弹幕小插件"
 
 s.description  = <<-DESC
